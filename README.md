@@ -17,19 +17,6 @@ The release contains two separately packaged downloads:
 | **F-16 Sufa Main** | Main mod package |
 | **F-16 Liveries** | Additional liveries package |
 
-### If the download is split into multiple parts
-
-Some releases contain numbered archive parts (for example, `DCMii_F16_Sufa_Main.7z.001`, `.002`, `.003`, etc.) due to GitHub's file-size limit.
-
-1. Download **every part** of the package you want.
-2. Place all parts in **the same folder**; do not rename them.
-3. Install [7-Zip](https://www.7-zip.org/) if needed.
-4. Right-click the **first part** (`.7z.001`) and extract it with 7-Zip. The remaining parts will be read automatically.
-5. If extraction produces an original `.zip` file, extract that ZIP as well.
-6. Follow the installation instructions below.
-
-**Do not use GitHub's “Code → Download ZIP” button to download the actual mod.** That downloads repository contents, not the separate Release assets.
-
 ## Installation
 
 1. Download the relevant release archives.
