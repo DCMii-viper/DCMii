@@ -1,6 +1,6 @@
 # F-16I Sufa Mod – Personal Use & Attribution License
 
-Copyright © 2026 [Your Name] – Original contributions only.
+Copyright © 2026 Hannes Frimmel (DCMii Modding Team) – Original contributions only.
 
 All rights reserved, subject to the rights of the respective original creators.
 
